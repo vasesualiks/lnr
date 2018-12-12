@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+ <title>Мой проект</title>
+	 <!-- add bootstrap css file -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,800" rel="stylesheet">
+ <link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+<body>
+  <div class="grid">
+  	<!-- это первый блок a -->
+  	<div class="grid-item">
+  		<img src="" alt="">
+  	</div>
+  	<!-- это второй блок b -->
+  	<div class="grid-item">
+  		<button type="button"></button>
+  		<h4>Ali Sayed’s
+<span>Web Designing Project</span></h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit incidunt quibusdam voluptate. Libero error, veniam aliquam quae impedit atque, ipsum rerum, repellendus illum et ipsam aliquid. Obcaecati corporis culpa magni.</p>
+  	</div>
+  	<!--это третий блок c -->
+  	<div class="grid-item">
+  		<h2>Drawing <span>Scketch</span></h2>
+  		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis est ad dolorem ipsa quae facere a ipsum, perspiciatis adipisci aspernatur sunt sapiente dolorum accusamus consequatur eligendi, esse autem optio nobis.</p>
+  		<h2>Making Design</h2>
+  		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta praesentium omnis perferendis fugit dignissimos quos ipsum tenetur cupiditate exercitationem voluptates. Nisi esse aspernatur omnis numquam ullam in, fuga consequatur, a.</p>
+  		<h2>Developing Product</h2>
+  		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis veritatis beatae nam eos laudantium quis minus, veniam, recusandae error dolore, enim aliquid provident sunt accusamus exercitationem mollitia unde. Minus, fugiat?</p>
+  	</div>
+  	<!-- это четвертый блок d -->
+  	<div class="grid-item">
+  		<h2>Best Strarting</h2>
+  		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab est repellendus, blanditiis dolores excepturi. Reprehenderit hic ullam iure omnis dolorem, illum nam porro explicabo. Debitis aut est consequatur ullam molestias!</p>
+  		<a href="">View Our History</a>
+  	</div>
+  	<!-- это пятый блок -->
+  	<div class="grid-item">
+  		<h2>Verified Dummy</h2>
+  		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit beatae iste cupiditate consequatur, velit odio temporibus inventore nulla, reprehenderit voluptatibus sed nihil, minima fugit laudantium. Laudantium repudiandae doloremque at aperiam.</p>
+		<a href="">Go To The Page</a>
+  	</div>
+  	<!-- это шестой блок -->
+  	<div class="grid-item">
+  		<h2>This Webpage Is Designed By</h2>
+  		<div>
+  			<img src="" alt="">
+  			<h3>Ali Sayed</h3>
+  			<p>Graphic Designer</p>
+  		</div>
+  	</div>
+  	<!-- это седьмой блок -->
+  	<div class="grid-item">
+  		<h2>Say ‘Hello’</h2>
+  		<form action="">
+  			<input type="text" placeholder="Your Name">
+  			<input type="text" placeholder="Your Email">
+  			<textarea name="" id="" cols="30" rows="10" placeholder="Your Message Here ..."></textarea>
+  		</form>
+  		<div>
+  			<p>Stay Connnected With Us...</p>
+  			<ul>
+  				<li><a href=""></a></li>
+  				<li><a href=""></a></li>
+  				<li><a href=""></a></li>
+  			</ul>
+  			<p>Please Feel Free To Contat With me For Any Kind of Project.</p>
+  		</div>
+  	</div>
+  </div>
+<!-- add Javasscript file from js file -->
+</body>
+</html>
